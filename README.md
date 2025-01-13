@@ -1,8 +1,8 @@
-## Hi there 👋
+## Aloha 👋
 
 - ⚡ I'm a Senior Data Engineer for Hawaiian Airlines
-- 🔭 I’m currently working on [Palantir AIP](https://github.com/palantir/aip-community-registry) certificates and portfolio projects
-- 📫 reach me @ patflynnlb@gmail.com
+- 🔭 I’m currently working on [Palantir AIP](https://github.com/palantir/aip-community-registry) portfolio projects and certificates
+- 📫 Reach me @ patflynnlb@gmail.com
 
 
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
