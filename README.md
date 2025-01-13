@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- ⚡ I'm a Senior Data Engineer for Hawaiian Airlines
+- 🔭 I’m currently working on [Palantir AIP](https://github.com/palantir/aip-community-registry) certificates and portfolio projects
+- 📫 reach me @ patflynnlb@gmail.com
+
+
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <!--
 **patrickflynn2/patrickflynn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
