@@ -1,7 +1,7 @@
 ## Aloha 👋
 
 - ⚡ I'm a Senior Data Engineer for Hawaiian Airlines
-- 🔭 I’m currently working on [Palantir AIP](https://github.com/palantir/aip-community-registry) portfolio projects and certificates
+- 🔭 I’m currently working on [Palantir AIP](https://github.com/palantir/aip-community-registry) portfolio projects and certificates. As well as Palantir's Skywise at work. 
 - 📫 Reach me @ patflynnlb@gmail.com
 
 
